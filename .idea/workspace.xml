@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8795b9b1-01fa-44a0-82b3-7475ddb28e34" name="变更" comment="" />
+    <list default="true" id="8795b9b1-01fa-44a0-82b3-7475ddb28e34" name="变更" comment="assn1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,7 +47,7 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -47,10 +56,24 @@
       <recent name="D:\development\Programming_Project\mit6.092" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\Programming_Project\mit6.092\src\assn2" />
       <recent name="D:\development\Programming_Project\mit6.092\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.assn1.GravityCalculator">
+  <component name="RunManager" selected="应用程序.FooCorporation">
+    <configuration name="FooCorporation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assn2.FooCorporation" />
+      <module name="mit6.092" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assn2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GravityCalculator" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="21" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -79,8 +102,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assn1.book" />
+      <module name="mit6.092" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assn1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.FooCorporation" />
+        <item itemvalue="应用程序.book" />
         <item itemvalue="应用程序.assn1.GravityCalculator" />
         <item itemvalue="应用程序.Main" />
       </list>
@@ -97,8 +135,17 @@
       <workItem from="1717395494863" duration="583000" />
       <workItem from="1717396102805" duration="352000" />
       <workItem from="1717396471209" duration="630000" />
-      <workItem from="1717408845555" duration="178000" />
+      <workItem from="1717408845555" duration="2636000" />
+      <workItem from="1717665435307" duration="2476000" />
     </task>
+    <task id="LOCAL-00001" summary="assn1">
+      <created>1717409081670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717409081670</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +161,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assn1" />
+    <option name="LAST_COMMIT_MESSAGE" value="assn1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
