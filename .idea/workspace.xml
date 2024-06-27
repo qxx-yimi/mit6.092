@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8795b9b1-01fa-44a0-82b3-7475ddb28e34" name="变更" comment="assn2">
+    <list default="true" id="8795b9b1-01fa-44a0-82b3-7475ddb28e34" name="变更" comment="assn3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +56,26 @@
       <recent name="D:\development\Programming_Project\mit6.092" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\Programming_Project\mit6.092\src\assn4" />
       <recent name="D:\development\Programming_Project\mit6.092\src\assn3" />
       <recent name="D:\development\Programming_Project\mit6.092\src\assn2" />
       <recent name="D:\development\Programming_Project\mit6.092\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Marathon">
+  <component name="RunManager" selected="应用程序.Library">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assn4.Book" />
+      <module name="mit6.092" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assn4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FooCorporation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assn2.FooCorporation" />
       <module name="mit6.092" />
@@ -83,9 +97,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assn4.Library" />
       <module name="mit6.092" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assn4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,19 +116,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="assn3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="assn1.GravityCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assn1.GravityCalculator" />
-      <module name="mit6.092" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assn1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Library" />
+        <item itemvalue="应用程序.Book" />
         <item itemvalue="应用程序.Marathon" />
         <item itemvalue="应用程序.FooCorporation" />
         <item itemvalue="应用程序.book" />
-        <item itemvalue="应用程序.assn1.GravityCalculator" />
-        <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +160,8 @@
       <workItem from="1717408845555" duration="2636000" />
       <workItem from="1717665435307" duration="3602000" />
       <workItem from="1717929022986" duration="14000" />
-      <workItem from="1719395922608" duration="2983000" />
+      <workItem from="1719395922608" duration="3117000" />
+      <workItem from="1719458813328" duration="5045000" />
     </task>
     <task id="LOCAL-00001" summary="assn1">
       <created>1717409081670</created>
@@ -169,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717674028443</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="assn3">
+      <created>1719402598680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719402598680</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +204,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="assn1" />
     <MESSAGE value="assn2" />
-    <option name="LAST_COMMIT_MESSAGE" value="assn2" />
+    <MESSAGE value="assn3" />
+    <option name="LAST_COMMIT_MESSAGE" value="assn3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
