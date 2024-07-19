@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8795b9b1-01fa-44a0-82b3-7475ddb28e34" name="变更" comment="assn3">
+    <list default="true" id="8795b9b1-01fa-44a0-82b3-7475ddb28e34" name="变更" comment="assn4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +56,14 @@
       <recent name="D:\development\Programming_Project\mit6.092" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\development\Programming_Project\mit6.092\src\assn5" />
       <recent name="D:\development\Programming_Project\mit6.092\src\assn4" />
       <recent name="D:\development\Programming_Project\mit6.092\src\assn3" />
       <recent name="D:\development\Programming_Project\mit6.092\src\assn2" />
       <recent name="D:\development\Programming_Project\mit6.092\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Library">
+  <component name="RunManager" selected="应用程序.SimpleDraw">
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assn4.Book" />
       <module name="mit6.092" />
@@ -123,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assn1.book" />
+    <configuration name="SimpleDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assn5.SimpleDraw" />
       <module name="mit6.092" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assn1.*" />
+          <option name="PATTERN" value="assn5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.SimpleDraw" />
         <item itemvalue="应用程序.Library" />
         <item itemvalue="应用程序.Book" />
         <item itemvalue="应用程序.Marathon" />
         <item itemvalue="应用程序.FooCorporation" />
-        <item itemvalue="应用程序.book" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +162,9 @@
       <workItem from="1717665435307" duration="3602000" />
       <workItem from="1717929022986" duration="14000" />
       <workItem from="1719395922608" duration="3117000" />
-      <workItem from="1719458813328" duration="5045000" />
+      <workItem from="1719458813328" duration="5193000" />
+      <workItem from="1720866173831" duration="2061000" />
+      <workItem from="1721377280669" duration="1471000" />
     </task>
     <task id="LOCAL-00001" summary="assn1">
       <created>1717409081670</created>
@@ -184,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719402598680</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="assn4">
+      <created>1719495706701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719495706701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +215,8 @@
     <MESSAGE value="assn1" />
     <MESSAGE value="assn2" />
     <MESSAGE value="assn3" />
-    <option name="LAST_COMMIT_MESSAGE" value="assn3" />
+    <MESSAGE value="assn4" />
+    <option name="LAST_COMMIT_MESSAGE" value="assn4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
