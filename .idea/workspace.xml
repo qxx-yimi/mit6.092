@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8795b9b1-01fa-44a0-82b3-7475ddb28e34" name="变更" comment="assn4">
+    <list default="true" id="8795b9b1-01fa-44a0-82b3-7475ddb28e34" name="变更" comment="assn5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,26 +64,13 @@
       <recent name="D:\development\Programming_Project\mit6.092\src" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.SimpleDraw">
+  <component name="RunManager" selected="应用程序.assn6.SimpleDraw">
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assn4.Book" />
       <module name="mit6.092" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="assn4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FooCorporation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assn2.FooCorporation" />
-      <module name="mit6.092" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assn2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="assn6.SimpleDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assn6.SimpleDraw" />
+      <module name="mit6.092" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assn6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.assn6.SimpleDraw" />
         <item itemvalue="应用程序.SimpleDraw" />
         <item itemvalue="应用程序.Library" />
         <item itemvalue="应用程序.Book" />
         <item itemvalue="应用程序.Marathon" />
-        <item itemvalue="应用程序.FooCorporation" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,8 @@
       <workItem from="1719395922608" duration="3117000" />
       <workItem from="1719458813328" duration="5193000" />
       <workItem from="1720866173831" duration="2061000" />
-      <workItem from="1721377280669" duration="1471000" />
+      <workItem from="1721377280669" duration="3827000" />
+      <workItem from="1721441920894" duration="5413000" />
     </task>
     <task id="LOCAL-00001" summary="assn1">
       <created>1717409081670</created>
@@ -194,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1719495706701</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="assn5">
+      <created>1721378866429</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721378866429</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +225,8 @@
     <MESSAGE value="assn2" />
     <MESSAGE value="assn3" />
     <MESSAGE value="assn4" />
-    <option name="LAST_COMMIT_MESSAGE" value="assn4" />
+    <MESSAGE value="assn5" />
+    <option name="LAST_COMMIT_MESSAGE" value="assn5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
